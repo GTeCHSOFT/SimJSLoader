@@ -14,7 +14,7 @@ Miniscript to load dynamic js files from [@GAYTH](https://github.com/gaiththewol
 ```sh
 npm install simjsloader@1.0.1
 -
-git+https://github.com/gaiththewolf/SimJSLoader.git
+git+https://github.com/GTeCHSOFT/SimJSLoader.git
 ```
 
 ## Example:
